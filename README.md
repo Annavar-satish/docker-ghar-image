@@ -27,3 +27,4 @@ D-in-D image for GitHub Actions Self-Hoster runner based on [summerwind/actions-
 ## Build
 
 - `docker buildx build -t ghar-image .`
+test
